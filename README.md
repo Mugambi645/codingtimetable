@@ -1,2 +1,1 @@
 # codingtimetable
-Own coding timetable
