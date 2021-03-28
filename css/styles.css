@@ -1,0 +1,19 @@
+body {
+    background-color: coral !important;
+}
+.row {
+    padding: 10px;
+    margin: 10px;
+
+}
+.col-sm-4 {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50px;
+}
+.header {
+    padding: 20px;
+}
+.col-sm-4:hover {
+    background-color: rgb(255,106,0) !important;
+}
