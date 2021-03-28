@@ -1,5 +1,5 @@
 body {
-    background-color: coral !important;
+    background-color: olive !important;
 }
 .row {
     padding: 10px;
@@ -16,4 +16,8 @@ body {
 }
 .col-sm-4:hover {
     background-color: rgb(255,106,0) !important;
+}
+button {
+    background-color: olive;
+    background-size: 10px;
 }
